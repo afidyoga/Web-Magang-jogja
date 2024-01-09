@@ -1,4 +1,4 @@
-		                                    《 Web Magang Jogja 》
+		                                《 Web Magang Jogja 》
 ➢ HOME
 ![Screenshot_2024-01-09_20-05-37](https://github.com/afidyoga/Web-Magang-jogja/assets/83437629/428b9d6c-e7a5-4943-b2fa-5f5bcb620912)
 
